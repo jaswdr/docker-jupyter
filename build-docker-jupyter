@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t jaswdr/jupyter .
+docker build -t jaschweder/jupyter .
