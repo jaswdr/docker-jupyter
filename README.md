@@ -1,4 +1,4 @@
-# Jupyter Docker Container with pre-installed libraries
+# Jupyter Image with pre-installed libraries
 
 ### Libraries pre-installed
 
