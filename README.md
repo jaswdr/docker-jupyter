@@ -29,7 +29,7 @@ docker run \
     --rm \
     -p 8888:8888 \
     -v $PWD:/home/jovyan/work \
-    jaswdr/jupyter
+    jaschweder/jupyter
 ```
 
 Create your notebooks inside `./work` directory, who points to the current directory.
